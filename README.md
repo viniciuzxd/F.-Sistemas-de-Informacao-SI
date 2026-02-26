@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 University Project
 
 This repository contains academic projects and activities developed during my university course.
