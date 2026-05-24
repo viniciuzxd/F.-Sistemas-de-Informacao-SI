@@ -34,7 +34,9 @@ O que acontece quando seu sustento depende de esconder monstros da sociedade, ma
 * **Estética Trash e Nostalgia Analógica:** A escolha pelo visual retrô estilizado lo-fi embaça o realismo exagerado, transformando a atmosfera em uma experiência estilosa, intimidadora e de forte apelo visual para transmissões online.
 * **Tensão em formato de jogo de mesa:** Concentra toda a jogabilidade em uma única escrivaninha de autópsia, onde cada decisão mecânica carrega o peso imediato de vida ou morte.
 
+
 ---
+
 
 ## ⚙️ 03. O PATOLOGISTA E O CICLO DE TRABALHO (LOOP CENTRAL)
 
